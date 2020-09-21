@@ -1,3 +1,3 @@
 # Introduction-to-Autoencoders
 
-A simple introduction to autoencoder.
+In this lecture, you will learn about PCA and autoencoders and learn how to implement autoencoders for yourself.
